@@ -2,4 +2,5 @@
 
 fiz esse codigo para aprender JWT na pratica 
 
-conclusão depois da pratica: Preciso estudar mais 
+
+Está API representa uma serviço de login com usuario e senha, fazendo assim a autenticção do usuario e a criptografia da sua senha
